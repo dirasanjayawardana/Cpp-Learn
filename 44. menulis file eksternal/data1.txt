@@ -1,0 +1,3 @@
+menuliskan pada baris pertama
+menuliskan pada baris kedua
+123456
